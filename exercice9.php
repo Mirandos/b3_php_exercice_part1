@@ -9,3 +9,11 @@
  * sinon false.
   * En dessous de la classe, créer un objet et appeler les méthodes
  */
+
+require 'exercice2.php';
+
+class Student extends Person {
+
+}
+    
+
